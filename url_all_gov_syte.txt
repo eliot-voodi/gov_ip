@@ -201,3 +201,9 @@ i.kontur.ru
 install.kontur.ru
 market.kontur.ru
 lk.kontur.ru
+epbs2020.budget.gov.ru
+lkk.budget.gov.ru
+preprod-lkk.budget.gov.ru
+rs.www.budget.gov.ru
+www.budget.gov.ru
+budget.gov.ru
