@@ -247,3 +247,4 @@ smev3.gosuslugi.ru
 sreda.dom.gosuslugi.ru
 svcdev-beta.test.gosuslugi.ru
 techportal.gosuslugi.ru
+egisso.ru
